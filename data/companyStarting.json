@@ -1,0 +1,91 @@
+[{
+    "name": "For sale",
+    "url": "https://www.bestbuy.ca/en-ca",
+    "fundingGoal": "$1000",
+    "charityid": "1",
+    "raisedMoney": "$500"
+}, {
+    "name": "Salesforce",
+    "url": "https://www.salesforce.ca/en-ca",
+    "fundingGoal": "$10000",
+    "charityid": "2",
+    "raisedMoney": "$7500"
+}, {
+    "name": "Taco Palace",
+    "url": "https://www.bestbuy.ca/en-ca",
+    "fundingGoal": "$10",
+    "charityid": "3",
+    "raisedMoney": "$50"
+}, {
+    "name": "NHL",
+    "url": "https://www.NHL.com",
+    "fundingGoal": "$2000",
+    "charityid": "4",
+    "raisedMoney": "$1500"
+}, {
+    "name": "Brainstation",
+    "url": "https://www.brainstation.io",
+    "fundingGoal": "$31000",
+    "charityid": "5",
+    "raisedMoney": "$90500"
+}, {
+    "name": "Nike",
+    "url": "https://www.Nike.ca/en-ca",
+    "fundingGoal": "$75000",
+    "charityid": "6",
+    "raisedMoney": "$12500"
+}, {
+    "name": "Pepsi",
+    "url": "www.google.ca",
+    "fundingGoal": "1000",
+    "charityid": "18",
+    "raisedMoney": "500"
+}, {
+    "name": "Gamestop",
+    "url": "https://www.gamestop.ca/en-ca",
+    "fundingGoal": "$1000000",
+    "charityid": "8",
+    "raisedMoney": "$500"
+}, {
+    "name": "UFC",
+    "url": "https://www.ufc.com",
+    "fundingGoal": "$1000",
+    "charityid": "9",
+    "raisedMoney": "$500"
+}, {
+    "name": "Nvidia",
+    "url": "https://www.nvidia.ca/en-ca",
+    "fundingGoal": "$9000",
+    "charityid": "10",
+    "raisedMoney": "$500"
+}, {
+    "name": "Target",
+    "url": "https://www.target.ca/en-ca",
+    "fundingGoal": "$3000",
+    "charityid": "13",
+    "raisedMoney": "$500"
+}, {
+    "name": "Starbucks",
+    "url": "https://www.starbucks.ca/en-ca",
+    "fundingGoal": "$400",
+    "charityid": "14",
+    "raisedMoney": "$9500"
+}, {
+    "name": "intuit",
+    "url": "https://www.intuit.ca/en-ca",
+    "fundingGoal": "$100",
+    "charityid": "15",
+    "raisedMoney": "$500"
+}, {
+    "name": "Shopify",
+    "url": "https://www.shopify.ca/en-ca",
+    "fundingGoal": "$8000",
+    "charityid": "16",
+    "raisedMoney": "$500"
+}, {
+    "name": "TD",
+    "url": "https://www.bestbuy.ca/en-ca",
+    "fundingGoal": "$125000",
+    "charityid": "17",
+    "raisedMoney": "$500"
+}]

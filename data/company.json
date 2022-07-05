@@ -1,0 +1,163 @@
+[{
+    "name": "For sale",
+    "url": "https://www.bestbuy.ca/en-ca",
+    "description": "$1000",
+    "charityid": "1",
+    "raisedMoney": "$500"
+}, {
+    "name": "Salesforce",
+    "url": "https://www.salesforce.ca/en-ca",
+    "description": "$10000",
+    "charityid": "2",
+    "raisedMoney": "$7500"
+}, {
+    "name": "Taco Palace",
+    "url": "https://www.bestbuy.ca/en-ca",
+    "description": "$10",
+    "charityid": "3",
+    "raisedMoney": "$50"
+}, {
+    "name": "NHL",
+    "url": "https://www.NHL.com",
+    "description": "$2000",
+    "charityid": "4",
+    "raisedMoney": "$1500"
+}, {
+    "name": "Brainstation",
+    "url": "https://www.brainstation.io",
+    "description": "$31000",
+    "charityid": "5",
+    "raisedMoney": "$90500"
+}, {
+    "name": "Nike",
+    "url": "https://www.Nike.ca/en-ca",
+    "description": "$75000",
+    "charityid": "6",
+    "raisedMoney": "$12500"
+}, {
+    "name": "For Sale",
+    "url": "www.google.ca",
+    "description": "1000",
+    "charityid": "7",
+    "raisedMoney": "500"
+}, {
+    "name": "Gamestop",
+    "url": "https://www.gamestop.ca/en-ca",
+    "description": "$1000000",
+    "charityid": "8",
+    "raisedMoney": "$500"
+}, {
+    "name": "UFC",
+    "url": "https://www.ufc.com",
+    "description": "$1000",
+    "charityid": "9",
+    "raisedMoney": "$500"
+}, {
+    "name": "Nvidia",
+    "url": "https://www.nvidia.ca/en-ca",
+    "description": "$9000",
+    "charityid": "10",
+    "raisedMoney": "$500"
+}, {
+    "name": "Target",
+    "url": "https://www.target.ca/en-ca",
+    "description": "$3000",
+    "charityid": "13",
+    "raisedMoney": "$500"
+}, {
+    "name": "visa",
+    "url": "https://www.visa.ca/en-ca",
+    "description": "$3000",
+    "charityid": "11",
+    "raisedMoney": "$500"
+}, {
+    "name": "Starbucks",
+    "url": "https://www.starbucks.ca/en-ca",
+    "description": "$400",
+    "charityid": "14",
+    "raisedMoney": "$9500"
+}, {
+    "name": "intuit",
+    "url": "https://www.intuit.ca/en-ca",
+    "description": "$100",
+    "charityid": "15",
+    "raisedMoney": "$500"
+}, {
+    "name": "Shopify",
+    "url": "https://www.shopify.ca/en-ca",
+    "description": "$8000",
+    "charityid": "16",
+    "raisedMoney": "$500"
+}, {
+    "name": "Test",
+    "url": "www.google.ca",
+    "description": "1000",
+    "charityid": "46",
+    "raisedMoney": "100"
+}, {
+    "name": "Test",
+    "url": "www.google.ca",
+    "description": "1000",
+    "charityid": "49",
+    "raisedMoney": "100"
+}, {
+    "name": "Pizza Pizza ",
+    "url": "www.pizzapizza.ca",
+    "description": "1000",
+    "charityid": "50",
+    "raisedMoney": "1"
+}, {
+    "name": "Phil Co ",
+    "url": "www.google.ca",
+    "description": "1000",
+    "charityid": "65",
+    "raisedMoney": "500"
+}, {
+    "name": "Pizza Pizza",
+    "url": "www.pizzapizza.ca",
+    "description": "1000",
+    "charityid": "92",
+    "raisedMoney": "100"
+}, {
+    "name": "Basketball camp ",
+    "url": "www.google.ca",
+    "description": "1000",
+    "charityid": "125",
+    "raisedMoney": "500"
+}, {
+    "name": "phil",
+    "url": "www.google.ca",
+    "description": "100",
+    "charityid": "65",
+    "raisedMoney": "1"
+}, {
+    "name": "Pizza Co",
+    "url": "www.pizzapizza.ca",
+    "description": "1000",
+    "charityid": "77",
+    "raisedMoney": "100"
+}, {
+    "name": "sunshine Co",
+    "url": "www.google.ca",
+    "description": "1000",
+    "charityid": "81",
+    "raisedMoney": "1"
+}, {
+    "name": "Future co",
+    "url": "www.futurenow.com",
+    "description": "1000",
+    "charityid": "99",
+    "raisedMoney": "1"
+}, {
+    "name": "",
+    "url": "",
+    "description": "",
+    "charityid": "",
+    "raisedMoney": ""
+}, {
+    "name": "Kate Spade",
+    "url": "www.google.ca",
+    "description": "1000",
+    "charityid": "007",
+    "raisedMoney": "500"
+}]
