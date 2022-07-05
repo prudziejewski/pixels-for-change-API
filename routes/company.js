@@ -39,14 +39,14 @@ router.route("/:id").get((req, res) => {
 })
 
 router.route("/edit").put((req, res) => {
-    const { name, url, description, charityid, raisedMoney } = req.body;
+    const { name, url, description, charityid, message } = req.body;
     
     const newCompany = {
         name: name,
         url: url,
         description: description, 
         charityid: charityid,
-        raisedMoney: raisedMoney,
+        message: message,
     };
     
     const companies = getCompanies();
