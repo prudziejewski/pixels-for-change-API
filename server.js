@@ -3,11 +3,12 @@ const app = express();
 const PORT = 8020;
 const pixelRoute = require("./routes/pixel");
 const companyRoute = require("./routes/company");
+require('dotenv').config()
 // const loginRoute = require("./routes/login");
 const YOUR_DOMAIN = 'http://localhost:3000';
-
+const API_KEY = process.env.REACT_APP_API_KEY;
 const cors = require("cors");
-const stripe = require('stripe')('sk_test_51LGDWhLAihRf5R9sofogPXHSQZxtq4IhIG8QnrZjWceFyjKG6xaFLSeD3xynhiA3SSle0rT2uzKJZrhG4HJmDNcx002eZlgiJX');
+const stripe = require('stripe')(API_KEY);
 
 
 
