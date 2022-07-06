@@ -22,11 +22,11 @@ Pixels for change is a fundraising platform where companies buy advertisement sp
 
 - dotenv
 
--express
+- express
 
--stripe
+- stripe
 
--nodemon
+- nodemon
 
 ## Run Locally
 
