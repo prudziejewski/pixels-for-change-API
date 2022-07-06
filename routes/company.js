@@ -24,6 +24,8 @@ router.route("/:id").get((req, res) => {
         console.log(req.params.id);
         console.log(company.charityid)
         return company.charityid === pixelId
+    
+    
     })
 
     res.json(reqCompany);

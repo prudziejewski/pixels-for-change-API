@@ -11,7 +11,7 @@ Pixels for change is a fundraising platform where companies buy advertisement sp
 
 ## Tech Stack
 
-**Client:** React, SASS, React Router
+**Client:** HTML5, CSS3, SASS, Javascript, React, React Router
 
 **Server:** Node, Express, Stripe
 
@@ -24,6 +24,7 @@ Clone the project
 
 ```bash
   git clone https://github.com/prudziejewski/pixels-for-change
+  git clone https://github.com/prudziejewski/pixels-for-change-API
 ```
 
 Go to the project directory
@@ -43,6 +44,15 @@ Start the server
 ```bash
   npm run start
 ```
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`REACT_APP_API_KEY`
+
+To generate this key you will have to create an account on stripe, then go into the developers tab and then click API key. There will be secret key, copy and paste that key into the .env then set REACT_APP_API_KEY = to the secret key. You will now have access to the checkout function of the project   
+
 
 
 ## Roadmap

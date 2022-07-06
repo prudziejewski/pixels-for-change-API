@@ -1,101 +1,126 @@
 [{
     "id": "1",
-    "color": "blue",
-    "text": "NBA",
-    "charityid": "10"
+    "color": "black",
+    "text": "Visa",
+    "charityid": "11"
 }, {
     "id": "2",
-    "color": "blue",
-    "text": "NBA",
-    "charityId": "10"
+    "color": "DodgerBlue",
+    "text": "Salesforce",
+    "charityid": "2"
 }, {
     "id": "3",
-    "color": "blue",
-    "text": "Best Buy",
-    "charityid": "1"
+    "color": "DarkSeaGreen",
+    "text": "Taco palace",
+    "charityid": "3"
 }, {
     "id": "4",
     "color": "pink",
-    "text": "Best Buy"
+    "text": "NHL",
+    "charityid": "4"
 }, {
     "id": "5",
     "color": "yellow",
-    "text": "Gamestop"
-}, {
-    "id": "6",
-    "color": "green"
-}, {
-    "id": "7",
-    "color": "red",
-    "text": "NBA"
-}, {
-    "id": "8",
-    "color": "pink"
-}, {
-    "id": "9",
-    "color": "purple",
     "text": "Brainstation",
     "charityid": "5"
 }, {
+    "id": "6",
+    "color": "black",
+    "text": "Nike",
+    "charityid": "6"
+}, {
+    "id": "7",
+    "color": "SaddleBrown",
+    "text": "Future Startup",
+    "charityid": "7"
+}, {
+    "id": "8",
+    "color": "pink",
+    "text": "Gamestop",
+    "charityid": "8"
+}, {
+    "id": "9",
+    "color": "purple",
+    "text": "UFC",
+    "charityid": "9"
+}, {
     "id": "10",
-    "color": "yellow"
+    "color": "Cyan",
+    "text": "Nvidia",
+    "charityid": "10"
 }, {
     "id": "11",
     "color": "yellow",
-    "text": "Shopify"
+    "text": "Shopify",
+    "charityid": "16"
 }, {
     "id": "12",
-    "color": "yellow",
-    "text": "UFC"
+    "color": "GoldenRod",
+    "text": "Intuit",
+    "charityid": "15"
 }, {
     "id": "13",
-    "color": "green"
+    "color": "green",
+    "text": "Starbucks",
+    "charityid": "14"
 }, {
     "id": "14",
-    "color": "purple"
+    "color": "LightSalmon",
+    "text": "TD",
+    "charityid": "111"
 }, {
     "id": "15",
-    "color": "orange"
+    "color": "AliceBlue",
+    "text": "Target",
+    "charityid": "13"
 }, {
     "id": "16",
-    "color": "red"
+    "color": "Beige",
+    "text": "For Sale",
+    "charityid": "1"
 }, {
     "id": "17",
-    "color": "green"
+    "color": "green",
+    "text": "For Sale",
+    "charityid": "1"
 }, {
     "id": "18",
-    "color": "purple"
+    "color": "purple",
+    "text": "For Sale",
+    "charityid": "1"
 }, {
     "id": "19",
-    "color": "blue"
+    "color": "blue",
+    "text": "For Sale",
+    "charityid": "1"
 }, {
     "id": "20",
     "color": "grey",
     "text": "For Sale",
-    "charityid": "7"
+    "charityid": "1"
 }, {
     "id": "21",
     "color": "grey",
     "text": "For Sale",
-    "charityid": "7"
+    "charityid": "1"
 }, {
     "id": "22",
-    "color": "grey",
-    "text": "For Sale",
-    "charityid": "7"
+    "color": "red",
+    "text": "Pizza Pizza ",
+    "charityid": "50"
 }, {
     "id": "23",
-    "color": "grey",
-    "text": "For Sale",
-    "charityid": "7"
+    "color": "Black",
+    "text": "Nike",
+    "charityid": "6"
 }, {
     "id": "24",
     "color": "grey",
     "text": "For Sale",
-    "charityid": "7"
+    "charityid": "1"
 }, {
     "id": "25",
-    "color": "grey",
-    "text": "For Sale",
-    "charityid": "7"
+    "color": "lightsalmon",
+    "text": "Light salmon",
+    "charityid": "909"
 }]
