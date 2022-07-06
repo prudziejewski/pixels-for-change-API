@@ -13,10 +13,20 @@ Pixels for change is a fundraising platform where companies buy advertisement sp
 
 **Client:** HTML5, CSS3, SASS, Javascript, React, React Router
 
-**Server:** Node, Express, Stripe
+**Server:** Node, Express, Stripe, Nodemon
 
 
+## Dependencies 
 
+- cors 
+
+- dotenv
+
+-express
+
+-stripe
+
+-nodemon
 
 ## Run Locally
 
