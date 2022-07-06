@@ -1,0 +1,121 @@
+[{
+    "name": "For sale",
+    "url": "This could link to your companies website",
+    "description": "This Pixel is still for sale grab it before it is too late!",
+    "charityid": "1",
+    "message": "At Pixels for Change we belive in making a difference pixel by pixel"
+}, {
+    "name": "Salesforce",
+    "url": "https://www.salesforce.org/nonprofit/",
+    "description": "Salesforce, Inc. is a famous American cloud-based software company that provides CRM services",
+    "charityid": "2",
+    "message": "See how we are empowering non-for-profits"
+}, {
+    "name": "Taco Palace",
+    "url": "https://www.thewholesomedish.com/the-best-homemade-tacos/",
+    "description": "Taco Palace is the place to satisfy your taco needs",
+    "charityid": "3",
+    "message": "We care about deliver the best tacos and about causes that matter thats why we work with Pixels for change"
+}, {
+    "name": "NHL",
+    "url": "https://www.nhl.com/community/hockey-is-for-everyone/partners#:~:text=USA%20Hockey%20provides%20the%20foundation,lifelong%20love%20of%20the%20sport",
+    "description": "The NHL is the best hockey league in the world come see why",
+    "charityid": "4",
+    "message": "We love the game of hockey and are finding ways for everyone to enjoy it! Click below to see how"
+}, {
+    "name": "Brainstation",
+    "url": "https://brainstation.io/event/demo-day/toronto",
+    "description": "Brainstation is a bootcamp program that helps indivduals grow their intrests into careers",
+    "charityid": "5",
+    "message": "One of our students actally created this website checkout their work and the work of other grads below"
+}, {
+    "name": "Nike",
+    "url": "https://purpose.nike.com/what-we-stand-for#:~:text=Nike%20supports%20numerous%20national%20and,and%20the%20Jackie%20Robinson%20Foundation.",
+    "description": "Nike has a long history of speaking up for causes that reflect our values. That continues today with our ongoing effort to encourage people to help shape a better future and create a world where every voice is heard",
+    "charityid": "6",
+    "message": "Below is a link to some of the causes that reflect our values"
+}, {
+    "name": "The Next Great Start-up",
+    "url": "https://www.forbes.com/sites/amyfeldman/2021/10/12/next-billion-dollar-startups-2021/?sh=65b3d6cdf1cd",
+    "description": "We are the next great start up, with the next great product",
+    "charityid": "7",
+    "message": "Coming to the forbes list soon"
+}, {
+    "name": "Gamestop",
+    "url": "https://www.autismspeaks.org/gamestop",
+    "description": "Power to the players",
+    "charityid": "8",
+    "message": "This is the cause we believe in"
+}, {
+    "name": "UFC",
+    "url": "https://www.ufc.com/about/community",
+    "description": "Not only do we show the best fights on PPV, we are also fighting for change",
+    "charityid": "9",
+    "message": "The UFC Foundation is a 501(c)(3) non-profit organization that is committed to supporting various charitable organizations"
+}, {
+    "name": "Nvidia",
+    "url": "https://www.nvidia.com/en-us/foundation/",
+    "description": "Our employees share a passion for supporting the communities in which we live and do business. Through our new Inspire 365 initiative, the NVIDIA Foundation helps turn this passion for giving into action",
+    "charityid": "10",
+    "message": "Click below to find out what sets us apart from the others "
+}, {
+    "name": "Target",
+    "url": "https://corporate.target.com/sustainability-esg/community-engagement/corporate-giving",
+    "description": "Community has always been at the core of who we are. Our size, scale and influence creates opportunity to make meaningful change as we look to co-create a more equitable and regenerative future for communities around the world",
+    "charityid": "13",
+    "message": "See how we engage in sustainability, community and corporate giving below"
+}, {
+    "name": "Visa",
+    "url": "https://usa.visa.com/visa-everywhere/global-impact/visa-foundation.html",
+    "description": "Visa has recently established a new philanthropic platform for giving, called the Visa Foundation ",
+    "charityid": "11",
+    "message": "find out more information by clicking the links"
+}, {
+    "name": "Starbucks",
+    "url": "https://stories.starbucks.com/stories/the-starbucks-foundation/",
+    "description": "The Starbucks Foundation’s mission is to strengthen humanity by transforming lives across the world, with a focus on enabling community resiliency and prosperity and uplifting communities affected by disaster",
+    "charityid": "14",
+    "message": "See how we are making a change below"
+}, {
+    "name": "Intuit",
+    "url": "https://www.intuit.com/company/corporate-responsibility/jobs/",
+    "description": "One of our core company goals is to make a difference in the communities we serve, reflecting our unwavering commitment to helping people prosper today and in the future.",
+    "charityid": "15",
+    "message": "How we make a diffrence"
+}, {
+    "name": "Shopify",
+    "url": "https://apps.shopify.com/easy-donation",
+    "description": "At Shopify we believe in making donation simple",
+    "charityid": "16",
+    "message": "This is a feature to make that simple"
+}, {
+    "name": "Pizza Pizza ",
+    "url": "https://www.pizzapizza.ca/2017/04/20/pizza-pizza-fundraising-for-childrens-hospitals-one-slice-at-a-time/",
+    "description": "Pizza Pizza Fundraising For Children’s Hospitals One Slice At A Time",
+    "charityid": "50",
+    "message": "This is the fundraiser we ran a few years ago"
+}, {
+    "name": "Future co",
+    "url": "https://nowfuture.co/",
+    "description": "A website to help entrepreneurs find intresting ideas",
+    "charityid": "99",
+    "message": "We have plenty of articles to help brigthen your future"
+}, {
+    "name": "Kate Spade",
+    "url": "https://www.katespade.com/katespade-customer-service-ks-about-us/ks-foundation.html",
+    "description": "the kate spade new york foundation inspires women to be the heroines of their own stories",
+    "charityid": "001",
+    "message": "Come see some of the work we are doing"
+}, {
+    "name": "TD",
+    "url": "https://www.td.com/ca/en/about-td/ready-commitment/",
+    "description": "Change is a fact of life. It can renew our perspective of the world or how we act within it. While change helps some of us get ahead, it can leave others behind.",
+    "charityid": "111",
+    "message": "See what we are doing at TD to make a difference"
+}, {
+    "name": "Light Salmon",
+    "url": "https://brainstation.io/",
+    "description": "We are the cohort of april 2022 raedy to take on the world of tech",
+    "charityid": "909",
+    "message": "See how we did it!"
+}]
